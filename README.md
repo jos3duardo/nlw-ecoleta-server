@@ -11,3 +11,8 @@ rodando migration
 ```bash
 npm run knex:migrate
 ```
+
+rodando seeds
+```bash
+npm run knex:seed
+```
